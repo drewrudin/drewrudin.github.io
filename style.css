@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+  }
+  
+  ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
+
+  img {
+    width: 20%;
+    height: auto;
+  }
